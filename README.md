@@ -111,15 +111,15 @@
 
 ## ❤ Connect
 
-<a href="https://www.linkedin.com/in/akshayrr1027/">
+<a href="https://www.linkedin.com/in/akash-rangesh-3bb445249/">
   <img align="left" alt="akshay's LinkedIn" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>
 </a>
 
-<a href="mailto:akshayar1027@gmail.com">
+<a href="mailto:akashrangesh07@gmail.com">
   <img align="left" alt="akshay's Email" src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>
 </a>
 
-<a href="https://www.instagram.com/akshay_rr10/">
+<a href="https://www.instagram.com/akash._.77/">
   <img align="left" alt="akshay's Instagram" src="https://img.icons8.com/bubbles/50/000000/instagram.png"/>
 </a>  
   
