@@ -27,9 +27,6 @@
       <a title="Python" href="https://python.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
     </td>
     <td>
-      <a title="Go" href="https://go.dev" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
-    </td>
-    <td>
       <a title="Node.js" href="https://nodejs.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a>
     </td>
   </tr>
@@ -37,9 +34,7 @@
     <td>
       <h4>Backend Frameworks</h4>
     </td>
-    <td>
-      <a title="Go-fiber" href="https://gofiber.io" target="_blank"> <img src="https://gofiber.io/assets/images/logo.svg" alt="Go-fiber" width="50" height="50"/> </a>
-    </td>
+
     <td>
       <a title="Django" href="https://https://gofiber.iodjangoproject.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" width="40" height="40"/> </a>
     </td>
@@ -75,36 +70,13 @@
     <td>
       <a title="Next" href="https://nextjs.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/> </a>
     </td>
-    <td>
-      <a title="TailwindCSS" href="https://tailwindcss.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/> </a>
-    </td>
   </tr>
   <tr>
     <td>
       <h4>Databases</h4>
     </td>
     <td>
-      <a title="PostgreSQL" href="https://postgresql.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-    </td>
-    <td>
       <a title="MongoDB" href="http://mongodb.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-    </td>
-    <td>
-      <a title="Redis" href="https://redis.io" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/> </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h4>Infrastructure</h4>
-    </td>
-    <td>
-      <a title="Docker" href="https://docker.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
-    </td>
-    <td>
-     <a title="Nginx" href="https://nginx.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
-    </td>
-    <td>
-      <a title="Microsoft Azure" href="https://azure.microsoft.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/> </a>
     </td>
   </tr>
 </table>
