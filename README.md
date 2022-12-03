@@ -6,7 +6,7 @@
  Cloud, Full-stack and AR enthusiast. ☁
  <br >
 
-- 🔭 I’m currently working on ... Concurrency in Golang, Django, REST APIs and web projects. 🐱‍👤
+- 🔭 I’m currently working on ... React js, Express js, REST APIs and web projects. 🐱‍👤
 - ⚡ Fun fact: Love exploring new Tech 👨‍💻| Cricket | Company with friends 😻 
 - A developer should dabble in everything (frontend, backend, testing and QA/QC, infrastructure, devops), and build focus gradually and naturally.
 
