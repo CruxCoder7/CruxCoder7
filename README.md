@@ -34,7 +34,6 @@
     <td>
       <h4>Backend Frameworks</h4>
     </td>
-
     <td>
       <a title="Django" href="https://https://gofiber.iodjangoproject.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" width="40" height="40"/> </a>
     </td>
@@ -42,7 +41,6 @@
       <a title="Express" href="http://expressjs.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" alt="expressjs" width="40" height="40"/> </a>
     </td>
   </tr>
-  
   <tr>
     <td>
       <h4>Frontend Languages</h4>
@@ -50,9 +48,6 @@
     <td>
       <a title="JavaScript" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
     </td>
-    <!--td>
-      <a title="TypeScript" href="https://www.typescriptlang.org" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-    <td-->
     <td>
        <a title="HTML" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
     </td>
