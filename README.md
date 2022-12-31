@@ -1,13 +1,13 @@
 ## Hi, I'm Akash! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
  
 
- I am a second year student at Shiv Nadar University Chennai (SNUC).<br>
+ I am a sophomore at Shiv Nadar University Chennai (SNUC).<br>
  I am also an avid, curious and focused developer. ✨ <br>
  Full-stack enthusiast.
  <br >
 
-- 🔭 I’m currently working on ... React js, Express js, REST APIs and web projects. 🐱‍👤
-- ⚡ Fun fact: Love exploring new Tech 👨‍💻| Cricket | Company with friends 😻 
+- 🔭 I’m currently working on ... React js, Next js, Express js, MongoDB, Prisma, REST APIs and web projects. 🐱‍👤
+- ⚡ Fun fact: Love exploring new Tech 👨‍💻| Cricket
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=CruxCoder7.visitor-badge&style=flat-square&color=0088cc)<br>
 
