@@ -6,7 +6,7 @@
  Full-stack enthusiast.
  <br >
 
-- 🔭 I’m currently working on React js, Next js, Express js, MongoDB, Prisma, REST APIs and web projects. 🐱‍👤
+- 🔭 I’m currently working on React js, Next js, Express js, MongoDB, Prisma, GraphQL, REST APIs and web projects. 🐱‍👤
 - ⚡ I Love exploring new Tech 👨‍💻
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=CruxCoder7.visitor-badge&style=flat-square&color=0088cc)<br>
