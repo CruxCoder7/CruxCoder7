@@ -1,7 +1,7 @@
 ## Hi, I'm Akash! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
  
 
- I am a third year unfergrad at Shiv Nadar University Chennai (SNUC).<br>
+ I am a third year undergrad at Shiv Nadar University Chennai (SNUC).<br>
  I am also an avid, curious and focused developer. ✨ <br>
  Full-stack enthusiast.
  <br >
